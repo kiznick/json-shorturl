@@ -1,0 +1,18 @@
+[
+    {
+        "unique": "fb",
+        "target": "https://www.facebook.com/kiznick/"
+    },
+    {
+        "unique": "tw",
+        "target": "https://twitter.com/kiznick_"
+    },
+    {
+        "unique": "ig",
+        "target": "https://www.instagram.com/kiznick_/"
+    },
+    {
+        "unique": "gh",
+        "target": "https://github.com/kiznick"
+    }
+]
